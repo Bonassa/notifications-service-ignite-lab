@@ -32,6 +32,10 @@ Este projeto foi desenvolvido durante o Ignite Lab da Rocketseat em dezembro de 
 - [Prisma](https://www.prisma.io/)
 - [Insomnia](https://insomnia.rest/)
 
+## Design Patters
+- Factory Patter
+- Database in Memory Patter
+
 ## Roteiro de criação
 
 1- Instalação da CLI do NestJS

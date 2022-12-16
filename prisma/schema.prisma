@@ -17,6 +17,7 @@ model Notification {
   content     String
   category    String
   readtAt     DateTime?
+  canceledAt  DateTime?
   createdAt   DateTime  @default(now())
 
   // Criando um indice para as querys que forem puxar todas as notificações de um determinado id sejam mais performaticas
